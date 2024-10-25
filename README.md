@@ -20,3 +20,6 @@ This project investigates the potential of using treated date palm fibers as a r
 * **Institutions:** K. N. Toosi University of Technology and Iran Polymer and Petrochemical Institute
 * **Duration:** February to September 2021
 * **Language:** Persian
+
+<img width="300" alt="t1" src=https://github.com/user-attachments/assets/ab09e956-52c4-40fd-8fde-8ba07637d2b2>
+
